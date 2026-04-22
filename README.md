@@ -27,18 +27,6 @@ I'm a developer and designer from **Nellore, Andhra Pradesh 🇮🇳**, passiona
 
 ---
 
-## 🚀 Featured Projects
-
-> *(Add your best 2–3 projects here — replace the examples below!)*
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🔗 [Project Name](https://github.com/sarathkumarbhasa) | Short description of what it does and the problem it solves | Python, HTML |
-| 🔗 [Project Name](https://github.com/sarathkumarbhasa) | Short description of what it does and the problem it solves | Figma, Framer |
-| 🔗 [Project Name](https://github.com/sarathkumarbhasa) | Short description of what it does and the problem it solves | WordPress, Vercel |
-
----
-
 ## 💻 Tech Stack
 
 **Languages & Dev**
@@ -76,8 +64,6 @@ I'm a developer and designer from **Nellore, Andhra Pradesh 🇮🇳**, passiona
 ---
 
 <div align="center">
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=sarathkumarbhasa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 *"Building real-world solutions from creative ideas."*
 
