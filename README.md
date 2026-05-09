@@ -61,21 +61,7 @@ I'm an **AI/ML Engineering student at AITS Tirupati** 🎓, focused on building 
 - 🥈 **Women Ideathon 1.0** — Finalist
 - 📜 **AAVEG25** — Certification
 - 📜 **Programming Foundations: Beyond the Fundamentals**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarathkumarbhasa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sarathkumarbhasa&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarathkumarbhasa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
+  
 ---
 
 <div align="center">
