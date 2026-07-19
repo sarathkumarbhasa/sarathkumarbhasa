@@ -47,7 +47,7 @@
 ```
 
 <div align="center">
-<img src="./asset/hackathon-commit.png" width="480" alt="hackathon commit screenshot"/>
+<img src="./assest/hackathon-commit.png" width="480" alt="hackathon commit screenshot"/>
 
 <sub>me watching the model train while the hackathon deadline gets closer</sub>
 </div>
