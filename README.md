@@ -68,10 +68,10 @@ I'm an **AI/ML Engineering student at AITS Tirupati** 🎓, focused on building 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarathkumarbhasa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sarathkumarbhasa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarathkumarbhasa&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarathkumarbhasa&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sarathkumarbhasa&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="Top Languages"/>
 
 </div>
 
@@ -91,10 +91,14 @@ I'm an **AI/ML Engineering student at AITS Tirupati** 🎓, focused on building 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/sarathkumarbhasa/sarathkumarbhasa/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/sarathkumarbhasa/sarathkumarbhasa/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 </div>
 
-> 💡 This snake animation needs a one-time GitHub Action setup in your profile repo. Let me know if you want the workflow file for it — takes 2 minutes to add.
+> 💡 **Setup required (one-time, ~2 min):** this image is blank until you add a GitHub Action that generates it.
+> 1. In your **profile repo** (the one named exactly `sarathkumarbhasa`), create the file `.github/workflows/snake.yml` and paste in the workflow I gave you.
+> 2. Go to the repo's **Settings → Actions → General → Workflow permissions** and set it to **"Read and write permissions."**
+> 3. Go to the **Actions** tab and manually run the "Generate Snake Animation" workflow once (don't wait for the daily cron).
+> 4. It'll create an `output` branch with the SVG — the image above will then load automatically.
 
 ---
 
