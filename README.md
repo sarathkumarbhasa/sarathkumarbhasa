@@ -74,6 +74,7 @@ I'm an **AI/ML Engineering student at AITS Tirupati** 🎓, focused on building 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sarathkumarbhasa&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="Top Languages"/>
 
 </div>
+
 ---
 
 ## 🏆 Achievements & Certifications
@@ -97,9 +98,9 @@ I'm an **AI/ML Engineering student at AITS Tirupati** 🎓, focused on building 
 
 ### 💭 A little dev humor never hurt anyone
 
-<img src="./assets/hackathon-commit.png" width="480" alt="a real 3am commit message screenshot"/>
+<img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" width="320" alt="it works meme"/>
 
-<sub>real commit message from Anantapur Police Hackathon, 3:47 AM — swap this in with your own</sub>
+<sub>"It works on my machine" — every dev, every time</sub>
 
 <br/><br/>
 
