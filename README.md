@@ -30,9 +30,9 @@ I'm an **AI/ML Engineering student at AITS Tirupati** 🎓, focused on building 
 - 📫 Reach me at **bhasasarathkumar051@gmail.com**
 
 <div align="center">
-<img src="https://media.giphy.com/media/3o7TKz2bX6dEvXCUuc/giphy.gif" width="380" alt="coding meme"/>
+<img src="https://media.giphy.com/media/AwtBb9ptSbxwQ/giphy.gif" width="380" alt="waiting for model to train meme"/>
 
-<sub>me at 2am telling myself "just one more feature" before the hackathon deadline</sub>
+<sub>me watching the model train while the hackathon deadline gets closer</sub>
 </div>
 
 ---
@@ -74,7 +74,6 @@ I'm an **AI/ML Engineering student at AITS Tirupati** 🎓, focused on building 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sarathkumarbhasa&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="Top Languages"/>
 
 </div>
-
 ---
 
 ## 🏆 Achievements & Certifications
@@ -98,9 +97,9 @@ I'm an **AI/ML Engineering student at AITS Tirupati** 🎓, focused on building 
 
 ### 💭 A little dev humor never hurt anyone
 
-<img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" width="320" alt="it works meme"/>
+<img src="./assets/hackathon-commit.png" width="480" alt="a real 3am commit message screenshot"/>
 
-<sub>"It works on my machine" — every dev, every time</sub>
+<sub>real commit message from Anantapur Police Hackathon, 3:47 AM — swap this in with your own</sub>
 
 <br/><br/>
 
