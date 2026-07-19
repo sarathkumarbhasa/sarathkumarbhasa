@@ -75,8 +75,6 @@ I'm an **AI/ML Engineering student at AITS Tirupati** 🎓, focused on building 
 
 </div>
 
-> ⚠️ Replace `sarathkumarbhasa` above with your actual GitHub username if it's different — these cards auto-update from your GitHub activity.
-
 ---
 
 ## 🏆 Achievements & Certifications
@@ -93,12 +91,6 @@ I'm an **AI/ML Engineering student at AITS Tirupati** 🎓, focused on building 
 <div align="center">
 <img src="https://raw.githubusercontent.com/sarathkumarbhasa/sarathkumarbhasa/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 </div>
-
-> 💡 **Setup required (one-time, ~2 min):** this image is blank until you add a GitHub Action that generates it.
-> 1. In your **profile repo** (the one named exactly `sarathkumarbhasa`), create the file `.github/workflows/snake.yml` and paste in the workflow I gave you.
-> 2. Go to the repo's **Settings → Actions → General → Workflow permissions** and set it to **"Read and write permissions."**
-> 3. Go to the **Actions** tab and manually run the "Generate Snake Animation" workflow once (don't wait for the daily cron).
-> 4. It'll create an `output` branch with the SVG — the image above will then load automatically.
 
 ---
 
