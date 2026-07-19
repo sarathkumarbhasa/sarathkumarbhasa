@@ -98,9 +98,9 @@ I'm an **AI/ML Engineering student at AITS Tirupati** 🎓, focused on building 
 
 ### 💭 A little dev humor never hurt anyone
 
-<img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" width="320" alt="it works meme"/>
+<img src="./asset/hackathon-commit.png" width="480" alt="hackathon commit screenshot"/>
 
-<sub>"It works on my machine" — every dev, every time</sub>
+<sub>me watching the model train while the hackathon deadline gets closer</sub>
 
 <br/><br/>
 
