@@ -1,82 +1,74 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="sarath kumar" width="100%"/>
+# Hi there, I'm B. Sarath Kumar 👋
 
-<br/>
+### 🤖 AI/ML Engineering Student • 🛠️ LLM App Builder • ⚡ Rapid Prototyper
 
-[portfolio](https://sarath-portfolio-delta.vercel.app) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/sarathakumarm3001/) &nbsp;·&nbsp; [instagram](https://www.instagram.com/malpsbt3012/) &nbsp;·&nbsp; [email](mailto:bhasasarathkumar051@gmail.com)
+*Master fundamentals → use AI to multiply output → ship real products.*
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarathakumarm3001/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/malpsbt3012/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhasasarathkumar051@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://sarathkumarbhasa.github.io/Portfolio/)
 
 </div>
 
-### about
+---
 
-i study ai & ml at aits tirupati, and i like turning ideas into things people actually use.
-llm apps, agents, campus tools, the occasional 3d experiment. idea to working demo in days, on a zero-cost stack, with security taken seriously.
+## 💫 About Me
 
-google student ambassador · gssoc contributor & ambassador<br/>
-open to internships, collabs, and building with founders.
+I'm an **AI/ML Engineering student at AITS Tirupati** 🎓, focused on building working AI-powered products — not just studying concepts. I combine machine learning fundamentals with hands-on development to go from idea to working demo in days.
 
-<div align="center">
-<img src="assets/now.svg" alt="now building: aits ecosystem" width="70%"/>
-<br/><br/>
-<img src="assets/divider.svg" width="100%" alt=""/>
-</div>
+- 🤖 Building **LLM-powered web apps, AI agents & automation workflows** using Python
+- ⚡ Rapid prototyping — concept to working demo in **days, not weeks**
+- 🏆 Hackathon Finalist — **Anantapur Police Hackathon 2026** & **Women Ideathon 1.0**
+- 🎨 Also into **UI/UX, video editing & design** (Figma, Premiere Pro, Lightroom)
+- 🤝 Open to **AI/ML internships, collabs, and building with founders & engineers**
+- 📫 Reach me at **bhasasarathkumar051@gmail.com**
 
-### things i've made
+---
 
-**jam** · *just a minute*<br/>
-campus letters without the paper chase. ai drafting, mentor → hod approval, qr-verified pdfs.<br/>
-<sub>next.js · typescript · supabase · openrouter &nbsp;—&nbsp; [code](https://github.com/Saraththecoder/JAM)</sub>
+## 💻 Tech Stack
 
-**labsim**<br/>
-a 3d physics lab in the browser, with ar. built with team neural nova.<br/>
-<sub>three.js · webxr · next.js &nbsp;—&nbsp; [live](https://labsim-woad.vercel.app/) · [code](https://github.com/Saraththecoder/labsim)</sub>
+**AI & ML**
 
-**campus compliance portal**<br/>
-anonymous complaints, role-scoped access, a database that's been through an adversarial review.<br/>
-<sub>next.js · supabase &nbsp;—&nbsp; [code](#)</sub>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-**canteen ordering**<br/>
-food ordering for the campus canteen, with an admin approval queue and auto-cleaning orders.<br/>
-<sub>next.js · firebase · app check &nbsp;—&nbsp; [code](#)</sub>
+**Web & Dev Tools**
 
-**bus tracker**<br/>
-live college bus locations as an installable pwa.<br/>
-<sub>next.js · firebase · leaflet &nbsp;—&nbsp; [code](#)</sub>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-**macha.ai**<br/>
-a privacy-first chrome extension that works with ollama and other llm providers.<br/>
-<sub>manifest v3 · preact · vite &nbsp;—&nbsp; [code](#)</sub>
+**Design & Creative**
 
-**linkedin content agent**<br/>
-daily ai-news posts from a lean two-call llm pipeline.<br/>
-<sub>python · openrouter &nbsp;—&nbsp; [code](#)</sub>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+---
 
-### tools i reach for
+## 🏆 Achievements & Certifications
 
-`python` `typescript` `javascript` `java` `c`<br/>
-`next.js` `react` `preact` `three.js` `webxr`<br/>
-`supabase` `firebase` `upstash` `vercel`<br/>
-`llm agents` `openrouter` `ollama` `scikit-learn`<br/>
-`figma` `premiere pro` `lightroom` `canva`
-
-### small wins
-
-- finalist, **anantapur police hackathon 2026**
-- finalist, **women ideathon 1.0**
-- entered **2026 innovators conclave** with labsim
-- google student ambassador · gssoc ambassador
+- 🥈 **Anantapur Police Hackathon 2026** — Finalist
+- 🥈 **Women Ideathon 1.0** — Finalist
+- 📜 **AAVEG25** — Certification
+- 📜 **Programming Foundations: Beyond the Fundamentals**
+  
+---
 
 <div align="center">
 
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-*building real-world solutions from creative ideas.*
-
-[say hi →](mailto:bhasasarathkumar051@gmail.com)
+*"Building real-world solutions from creative ideas."*
 
 </div>
+
+
+how is this design
