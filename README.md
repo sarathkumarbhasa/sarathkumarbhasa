@@ -1,73 +1,82 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Sarath Kumar: Player 1" width="100%"/>
+<img src="assets/hero.svg" alt="sarath kumar" width="100%"/>
 
-**[ PORTFOLIO ](https://sarath-portfolio-delta.vercel.app)** · **[ LINKEDIN ](https://www.linkedin.com/in/sarathakumarm3001/)** · **[ EMAIL ](mailto:bhasasarathkumar051@gmail.com)** · **[ INSTAGRAM ](https://www.instagram.com/malpsbt3012/)**
+<br/>
+
+[portfolio](https://sarath-portfolio-delta.vercel.app) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/sarathakumarm3001/) &nbsp;·&nbsp; [instagram](https://www.instagram.com/malpsbt3012/) &nbsp;·&nbsp; [email](mailto:bhasasarathkumar051@gmail.com)
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
----
+### about
 
-## 🎮 PLAYER PROFILE
+i study ai & ml at aits tirupati, and i like turning ideas into things people actually use.
+llm apps, agents, campus tools, the occasional 3d experiment. idea to working demo in days, on a zero-cost stack, with security taken seriously.
 
-```
-NAME      B. Sarath Kumar
-CLASS     AI/ML Engineer · LLM App Builder
-GUILD     AITS Tirupati, B.Tech AI & ML (2028)
-TITLES    Google Student Ambassador · GSSoC Contributor & Ambassador
-BUILD     Zero-cost stack · security-first · ships in days
-STATUS    Open to internships, collabs, and founder quests
-```
+google student ambassador · gssoc contributor & ambassador<br/>
+open to internships, collabs, and building with founders.
 
 <div align="center">
-<img src="assets/stats.svg" alt="Attributes" width="100%"/>
+<img src="assets/now.svg" alt="now building: aits ecosystem" width="70%"/>
+<br/><br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 </div>
 
----
+### things i've made
 
-## 📜 QUEST LOG
+**jam** · *just a minute*<br/>
+campus letters without the paper chase. ai drafting, mentor → hod approval, qr-verified pdfs.<br/>
+<sub>next.js · typescript · supabase · openrouter &nbsp;—&nbsp; [code](https://github.com/Saraththecoder/JAM)</sub>
 
-| | Quest | Objective | Loot (stack) | Status |
-|---|---|---|---|---|
-| ⚔️ | **JAM: Just A Minute** | Kill campus paperwork. AI-drafted letters, Student → Mentor → HOD approval, QR-verified PDFs | Next.js 15, TypeScript, Supabase, OpenRouter, Upstash | ✅ CLEARED · [Code](https://github.com/Saraththecoder/JAM) |
-| 🔬 | **LabSim** | A browser 3D physics lab with WebXR AR, built with Team Neural Nova | Three.js, WebXR, Next.js | ✅ CLEARED · [Live](https://labsim-woad.vercel.app/) · [Code](https://github.com/Saraththecoder/labsim) |
-| 🛡️ | **Campus Compliance Portal** | Anonymous complaints with role-scoped access and hardened RLS | Next.js, Supabase | ✅ CLEARED · [Code](#) |
-| 🍽️ | **AITS Canteen Ordering** | Production-hardened ordering with an admin approval queue | Next.js, Firebase, App Check | ✅ CLEARED · [Code](#) |
-| 🚌 | **AITS Bus Tracker** | Real-time bus tracking PWA with live map | Next.js, Firebase RTDB, Leaflet | ✅ CLEARED · [Code](#) |
-| 🧩 | **MACHA.AI** | Privacy-first Chrome extension for Ollama and multi-LLM chat | Manifest V3, Preact, Vite | ✅ CLEARED · [Code](#) |
-| 🤖 | **LinkedIn Content Agent** | Daily AI-news posts from a two-call LLM pipeline | Python, OpenRouter | ✅ CLEARED · [Code](#) |
-| 🏫 | **AITS Ecosystem** | One platform that bundles every campus tool | Next.js, Supabase | 🔥 IN PROGRESS |
+**labsim**<br/>
+a 3d physics lab in the browser, with ar. built with team neural nova.<br/>
+<sub>three.js · webxr · next.js &nbsp;—&nbsp; [live](https://labsim-woad.vercel.app/) · [code](https://github.com/Saraththecoder/labsim)</sub>
 
----
+**campus compliance portal**<br/>
+anonymous complaints, role-scoped access, a database that's been through an adversarial review.<br/>
+<sub>next.js · supabase &nbsp;—&nbsp; [code](#)</sub>
 
-## 🎒 INVENTORY
+**canteen ordering**<br/>
+food ordering for the campus canteen, with an admin approval queue and auto-cleaning orders.<br/>
+<sub>next.js · firebase · app check &nbsp;—&nbsp; [code](#)</sub>
 
-| Slot | Items |
-|---|---|
-| **Weapons** (languages) | Python · TypeScript · JavaScript · Java · C |
-| **Armor** (backend & infra) | Supabase · Firebase · Upstash Redis · Vercel |
-| **Spells** (AI/ML) | LLM agents · OpenRouter · Ollama · scikit-learn · prompt engineering |
-| **Engines** (frontend) | Next.js · React · Preact · Three.js · WebXR |
-| **Crafting** (design) | Figma · Premiere Pro · Lightroom · Canva |
+**bus tracker**<br/>
+live college bus locations as an installable pwa.<br/>
+<sub>next.js · firebase · leaflet &nbsp;—&nbsp; [code](#)</sub>
 
----
+**macha.ai**<br/>
+a privacy-first chrome extension that works with ollama and other llm providers.<br/>
+<sub>manifest v3 · preact · vite &nbsp;—&nbsp; [code](#)</sub>
 
-## 🏆 ACHIEVEMENTS UNLOCKED
+**linkedin content agent**<br/>
+daily ai-news posts from a lean two-call llm pipeline.<br/>
+<sub>python · openrouter &nbsp;—&nbsp; [code](#)</sub>
 
-- 🏅 **Finalist**: Anantapur Police Hackathon 2026
-- 🏅 **Finalist**: Women Ideathon 1.0
-- 🎓 **Ambassador**: Google Student Ambassador
-- 🌐 **Ambassador**: GirlScript Summer of Code
-- 🧪 **Entered**: 2026 Innovators Conclave with LabSim
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
----
+### tools i reach for
+
+`python` `typescript` `javascript` `java` `c`<br/>
+`next.js` `react` `preact` `three.js` `webxr`<br/>
+`supabase` `firebase` `upstash` `vercel`<br/>
+`llm agents` `openrouter` `ollama` `scikit-learn`<br/>
+`figma` `premiere pro` `lightroom` `canva`
+
+### small wins
+
+- finalist, **anantapur police hackathon 2026**
+- finalist, **women ideathon 1.0**
+- entered **2026 innovators conclave** with labsim
+- google student ambassador · gssoc ambassador
 
 <div align="center">
 
-### 🕹️ CONTINUE?
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-**Open to AI/ML internships and collabs. [Insert coin → say hi](mailto:bhasasarathkumar051@gmail.com)**
+*building real-world solutions from creative ideas.*
 
-*"Building real-world solutions from creative ideas."*
+[say hi →](mailto:bhasasarathkumar051@gmail.com)
 
 </div>
